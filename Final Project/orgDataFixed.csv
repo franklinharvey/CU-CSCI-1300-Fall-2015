@@ -1,0 +1,88 @@
+id,name,lat,lng,type,donor_type,donor_sqft
+4,Alfalfa's,40.0134007,-105.2789019,donor,grocer,33880
+28,Attention Homes (North),40.030653,-105.281762,recipient,,
+44,Attention Homes (South),39.991817,-105.248161,recipient,,
+251,Beau Jo's Pizza,39.9998115,-105.2604762,donor,restaurant,5120
+41,BHP @ Arapahoe Court,40.0136577,-105.2823486,recipient,,
+20,BHP @ Canyon Pointe,40.0153587,-105.2858228,recipient,,
+274,BHP @ High Mar,39.986769,-105.238474,recipient,,
+275,BHP @ Kalmia ,40.0389693,-105.2609792,recipient,,
+18,BHP @ Northport,40.023384,-105.2828556,recipient,,
+8,BHP @ Walnut Place,40.018295,-105.269461,recipient,,
+62,Bobo's Oat Bars,40.060444,-105.205883,donor,manufacturer,
+71,BOHO @ Crestview Church,40.006109,-105.247036,recipient,,
+100,Boulder County Aids Project,40.0198878,-105.2778544,recipient,,
+33,Boulder County Farmers' Market,40.0143592,-105.2773457,donor,market,
+40,Boulder Day Nursery,40.0195316,-105.2757169,recipient,,
+66,Boulder Homeless Shelter,40.0628511,-105.2821404,recipient,,
+27,Breadworks,40.0248585,-105.2808813,donor,restaurant,7423
+5,Bridge House Community Table,40.015115,-105.2284348,recipient,,
+252,C4C,40.004443,-105.26484,donor,cafeteria,
+11,Chinook Clubhouse,40.025303,-105.2841821,recipient,,
+22,Chrysalis Cooperative,40.020513,-105.275571,recipient,,
+63,Circles,40.0261703,-105.2495599,recipient,,
+155,Community Cycles,40.0255783,-105.2484526,recipient,,
+270,Community Fruit Rescue,,,donor,other,
+256,Cured,40.0198864,-105.2713969,donor,restaurant,"7,268"
+14,EFAA,40.0584247,-105.2777941,recipient,,
+7,Family Learning Center,40.0322307,-105.2471136,recipient,,
+68,Farrand Grab and Go,40.007581,-105.265942,donor,restaurant,
+255,Fior Di Latte,40.0189377,-105.276556,donor,restaurant,
+249,FNB @ Hope Boulder Church,40.0005045,-105.2353151,recipient,,
+26,Food Not Bombs,40.008744,-105.262592,recipient,,
+55,Food Not Bombs,40.008744,-105.262592,donor,other,
+38,Golden West,40.0050624,-105.2566711,recipient,,
+43,Google,40.0217624,-105.2608827,donor,cafeteria,
+215,Great Harvest Bread Company ,40.015568,-105.2612869,donor,restaurant,2352
+36,Growing Gardens/Cultiva,40.0345535,-105.2756868,donor,garden,
+58,Growing Gardens/Cultiva,40.0345535,-105.2756868,recipient,,
+15,Harvest of Hope,40.0291396,-105.2548316,recipient,,
+213,I Have A Dream (Casey Middle School),40.0231851,-105.2796655,recipient,,
+187,I Have A Dream (Iris Site),34.8075111,-96.678647,recipient,,
+272,Individuals,,,recipient,,
+263,Ironman,40.0211655,-105.2460076,donor,event,
+289,Lamb's Lunch,40.017317,-105.274874,recipient,,
+34,Legacy of Learning,40.0162823,-105.2262424,recipient,,
+69,Lolita's Market ,40.0166369,-105.2849205,donor,grocer,9147
+245,Lucky's Bakehouse,40.0475991,-105.2816644,donor,restaurant,2176
+3,Lucky's Market,40.047391,-105.280999,donor,grocer,13969
+29,Masala Cooperative,40.0113709,-105.284295,recipient,,
+61,Maslin House,40.010155,-105.279185,recipient,,
+10,Meals on Wheels,40.0136486,-105.2828282,recipient,,
+37,Mother House,40.020515,-105.26872,recipient,,
+193,Mountain Community Resource Center,40.1154522,-105.3925927,recipient,,
+42,New Horizons Preschool,40.0532787,-105.2746655,recipient,,
+24,Nick 'n Willy's,40.0168746,-105.2850121,donor,restaurant,2146
+186,North Haven Coop,40.0241703,-105.2854273,recipient,,
+21,Polaris Transitional Housing,40.046363,-105.277104,recipient,,
+232,Protein Bar,40.0193373,-105.2565265,donor,restaurant,
+47,Quality Planet,40.0576643,-105.2812226,donor,manufacturer,
+262,Red Wagon,40.0143592,-105.2773457,donor,farm,
+9,Safehouse,,,recipient,,
+39,Safehouse Outreach Center,40.0248917,-105.2859282,recipient,,
+308,Snap-Ed @ Kalmia,40.0389079,-105.2609787,recipient,,
+241,Special Events,,,donor,event,
+6,Sprouts Market:  Arapahoe,40.015568,-105.2612869,donor,grocer,22439
+72,Sprouts Market:  Baseline,39.9990773,-105.2544137,donor,grocer,23439
+25,Spruce Confections,40.0167835,-105.2853285,donor,bakery,
+159,Sterling Rice Group,40.0165,-105.278795,donor,event,
+214,St Julian Hotel,40.015679,-105.282575,donor,event,
+30,Sunday Soup Program,,,recipient,,
+76,Tandoori Grill,39.9846173,-105.2491911,donor,restaurant,7310
+273,There With Care,40.0256846,-105.2493538,recipient,,7310
+240,The Spot,40.0215272,-105.2505871,donor,event,
+35,Uni Hill Elementary,40.0049883,-105.2719968,recipient,,
+74,Vitamin Cottage,40.0246015,-105.254121,donor,grocer,9519
+227,WalMart,40.0364462,-105.2542704,donor,grocer,60369
+1,Whole Foods Alpine Ideal Market,40.0259783,-105.2808558,donor,grocer,12985
+2,Whole Foods Baseline,40.0001742,-105.2623024,donor,grocer,15114
+175,Whole Foods Pearl,40.0228457,-105.2563423,donor,grocer,80783
+50,Women's Health Center,40.0296715,-105.2565515,recipient,,
+12,YWCA Women's Group,40.021235,-105.278018,recipient,,
+,Trader Joe's,,,nondonor,grocer,15926
+,Target,,,nondonor,grocer,135738
+,Safeway - Baseline,,,nondonor,grocer,48622
+,Safeway - Iris,,,nondonor,grocer,55726
+,King Soopers - 30th,,,nondonor,grocer,61059
+,King Soopers - Gunbarrel,,,nondonor,grocer,56013
+,King Soopers - Table Mesa,,,nondonor,grocer,58216
